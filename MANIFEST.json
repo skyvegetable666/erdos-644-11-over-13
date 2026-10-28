@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "files": {
+    ".github/workflows/verify.yml": {
+      "bytes": 449,
+      "sha256": "fc2da75225afb276191d8adec91c948ed0c6ba6d146cdab33b381633daa84852"
+    },
+    ".gitignore": {
+      "bytes": 60,
+      "sha256": "b684b463d93fba2ed08f1d8f0f75fe60b17f6afb605f07e3ba154fbe64fa4083"
+    },
+    "PROOF.md": {
+      "bytes": 16101,
+      "sha256": "60e887fc50f1bc3d11b54578b0e4125bfaa8614c054e30d5c1057e84f7590bc8"
+    },
+    "PROVENANCE.json": {
+      "bytes": 2191,
+      "sha256": "64b09d2c3995622ce0f1947d410e650ef9afd7faae746cc8d2ce39019f91cf84"
+    },
+    "README.md": {
+      "bytes": 4417,
+      "sha256": "8d4d4420734e0e66c0297a087952a718f78baa52ab0bc693ea350f3ad2b0884a"
+    },
+    "REFERENCES.md": {
+      "bytes": 1462,
+      "sha256": "d6378d4d8e0a11a80f1b20ff44b218300fe4841683ab5029cde9344f01791a1c"
+    },
+    "docs/VERIFICATION.md": {
+      "bytes": 4901,
+      "sha256": "9709e6e21ed4f58ccba50ff28a40f4d7a6c6148c41c78f190ee3e69e2dff4b0f"
+    },
+    "docs/maximum_pair_lemma.md": {
+      "bytes": 5586,
+      "sha256": "271bd35e2a7e2a82b6abae7e427df40f804189dcf7c33e07ea00c8b973d8b137"
+    },
+    "verifier/exact_linear_logic.py": {
+      "bytes": 7686,
+      "sha256": "b82d3198f666072a69b9ccf9e629aaaf1efa9a23a2b019d208c8b3438550d610"
+    },
+    "verifier/lexicographic_bound_model.py": {
+      "bytes": 41403,
+      "sha256": "a77ec106700d5f7b83db51df7a5d407796d8038ecfdc04b02f475bd48ae92660"
+    },
+    "verifier/targeted_0849_supports.json": {
+      "bytes": 2072,
+      "sha256": "942a7a5cf3484018375264ec6e39704a44cf5458c0eacd75902aba7cc0f8c732"
+    },
+    "verifier/targeted_eleven_thirteenths_certificate.json": {
+      "bytes": 1725336,
+      "sha256": "43ba64032bac25c1091191fbf6dc726a865a967d70159208ec983424d30874ee"
+    },
+    "verifier/targeted_eleven_thirteenths_configuration.json": {
+      "bytes": 1299,
+      "sha256": "f27c278666bbba34814bc98ea00ed5158eb8f7ac7a012a6d7e4b52d39fac8d56"
+    },
+    "verifier/targeted_eleven_thirteenths_model.json": {
+      "bytes": 1394075,
+      "sha256": "f34241ae0e71d2adbb34553d15a8712f1f3b3056ff4ededa5a0f17ffad987f15"
+    },
+    "verifier/three_extrema_086_model.py": {
+      "bytes": 9268,
+      "sha256": "9879f848be68e5ae402074c815f9ec0447490f391db4a7949e58b77c353e0aae"
+    },
+    "verifier/verify_linear_refutation.py": {
+      "bytes": 2160,
+      "sha256": "a451b0bc3ea74e8ab55e69ad2f409c010d00b1d350d903cf44a1d27cb11f016d"
+    },
+    "verify.py": {
+      "bytes": 5371,
+      "sha256": "60114b7a6f94ecc5a959002b2e3543b5ec70652730102fc9f6cf8394bf61db4e"
+    }
+  }
+}

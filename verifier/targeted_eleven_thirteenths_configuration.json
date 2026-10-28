@@ -1,0 +1,74 @@
+{
+  "coefficient": "11/13",
+  "gap": [
+    "9/26",
+    "9/26"
+  ],
+  "partition": "artificial",
+  "gap_certificate": null,
+  "support_file": "targeted_0849_supports.json",
+  "large_rank_additive": 8,
+  "uniform_additive": 8,
+  "minimum_largest_balanced": true,
+  "minimum_largest_pair_gap": true,
+  "attained_pair_gap": true,
+  "strict_extremal_bounds": true,
+  "strict_response_atoms": true,
+  "root_covers": {
+    "static": [
+      439,
+      449
+    ]
+  },
+  "maximum_small_covers": {},
+  "queries": [
+    {
+      "name": "U0",
+      "pivot": 0,
+      "fraction": "0",
+      "tree": [
+        2031,
+        2047
+      ],
+      "biclique": [
+        882
+      ]
+    },
+    {
+      "name": "UhD",
+      "pivot": 0,
+      "fraction": "1/2",
+      "strict_side": "d",
+      "strict_level": "largest",
+      "tree": [
+        448
+      ],
+      "right_covers": {
+        "static": [
+          449
+        ]
+      }
+    },
+    {
+      "name": "U1D",
+      "pivot": 0,
+      "fraction": "1",
+      "strict_side": "d",
+      "strict_level": "largest",
+      "tree": [
+        2029
+      ]
+    },
+    {
+      "name": "V1D",
+      "pivot": 1,
+      "fraction": "1",
+      "strict_side": "d",
+      "strict_level": "middle",
+      "tree": [
+        1552
+      ]
+    }
+  ],
+  "minimum_large_fractions": []
+}

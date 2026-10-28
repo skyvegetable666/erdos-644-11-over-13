@@ -1,0 +1,52 @@
+{
+  "publication_date": "2026-10-29",
+  "unchanged_research_artifacts": [
+    {
+      "file": "verifier/exact_linear_logic.py",
+      "original_file": "exact_linear_logic.py",
+      "sha256": "b82d3198f666072a69b9ccf9e629aaaf1efa9a23a2b019d208c8b3438550d610"
+    },
+    {
+      "file": "verifier/verify_linear_refutation.py",
+      "original_file": "verify_linear_refutation.py",
+      "sha256": "a451b0bc3ea74e8ab55e69ad2f409c010d00b1d350d903cf44a1d27cb11f016d"
+    },
+    {
+      "file": "verifier/lexicographic_bound_model.py",
+      "original_file": "lexicographic_bound_model.py",
+      "sha256": "a77ec106700d5f7b83db51df7a5d407796d8038ecfdc04b02f475bd48ae92660"
+    },
+    {
+      "file": "verifier/three_extrema_086_model.py",
+      "original_file": "three_extrema_086_model.py",
+      "sha256": "9879f848be68e5ae402074c815f9ec0447490f391db4a7949e58b77c353e0aae"
+    },
+    {
+      "file": "verifier/targeted_eleven_thirteenths_configuration.json",
+      "original_file": "targeted_eleven_thirteenths_configuration.json",
+      "sha256": "f27c278666bbba34814bc98ea00ed5158eb8f7ac7a012a6d7e4b52d39fac8d56"
+    },
+    {
+      "file": "verifier/targeted_eleven_thirteenths_model.json",
+      "original_file": "targeted_eleven_thirteenths_model.json",
+      "sha256": "f34241ae0e71d2adbb34553d15a8712f1f3b3056ff4ededa5a0f17ffad987f15"
+    },
+    {
+      "file": "verifier/targeted_eleven_thirteenths_certificate.json",
+      "original_file": "targeted_eleven_thirteenths_certificate.json",
+      "sha256": "43ba64032bac25c1091191fbf6dc726a865a967d70159208ec983424d30874ee"
+    },
+    {
+      "file": "verifier/targeted_0849_supports.json",
+      "original_file": "targeted_0849_supports.json",
+      "sha256": "942a7a5cf3484018375264ec6e39704a44cf5458c0eacd75902aba7cc0f8c732"
+    },
+    {
+      "file": "docs/maximum_pair_lemma.md",
+      "original_file": "universal_triple_maximum_bound.md",
+      "sha256": "271bd35e2a7e2a82b6abae7e427df40f804189dcf7c33e07ea00c8b973d8b137"
+    }
+  ],
+  "main_certificate_discovery_date": "2026-10-26",
+  "notes": "The release wrapper uses the published f(k,6)=k bound for ranks below 20; the main 11/13 certificate and its model remain unchanged."
+}
